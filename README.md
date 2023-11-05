@@ -2,9 +2,9 @@
 
 Fui desafiado pela dio a criar meu primeiro site utilizando HTML. 
 E assim como foi no desafio de criação da primeira pagina, colocar tudo que foi passado em aula em pratica é muito empolgante.
-Sentir que sou melhor hoje do que fui ontem me mostra que estou fazendo a coisa certa.:muscle:
+Sentir que sou melhor hoje, do que fui ontem, me mostra que estou fazendo a coisa certa.:muscle:
 
-De todos esse foi o mais desafiador comparado com os outros desafios passados. Mas diferente do que imaginava, quanto mais eu usava minha criatividade na criação das paginas, mais ideias iam me surgindo. Infelizmente me faltou conhecimento técnico para realizar tudo que gostaria 
+De todos, até o momento, esse foi o meu maior desafio. Mas diferente do que imaginava, quanto mais usava minha criatividade na criação das paginas, mais ideias iam me surgindo. Infelizmente me faltou conhecimento técnico para realizar tudo que gostaria. 
 mas já fiquei muito feliz com o resultado final. :smile: 
 
 ## Tinha como objetivo do desafio:
@@ -64,7 +64,7 @@ Precisavamos seguir a estrutura imposta na imagem abaixo e seguir algumas regras
         - E-mail (type="email")
         - Assunto (type="text")
         - Mensagem (textarea)
-        - Botões de envias e limpar formulário
+        - Botões de "enviar" e "limpar formulário"
 
 ##### - Liks
 - Deve conter os links que lhe auxiliaram para a conclusão do projeto.
@@ -74,7 +74,7 @@ Precisavamos seguir a estrutura imposta na imagem abaixo e seguir algumas regras
 
 O resultado final vocês podem ver baixando meu código. :mag:
 
-Gostaria de agradecer a Dio e a NTTDATA por me proporcionar a oportunidade de fazer algo diferente e me provar ser capaz de realizar algo fora do meu habitual em tão pouco tempo. :tada:
+Gostaria de agradecer a Dio e a NTTDATA por me proporcionar a oportunidade de fazer algo diferente, e me provar ser capaz de realizar algo fora do meu habitual em tão pouco tempo. :tada:
 Gostei muito do resultado final do site e não vejo a hora de ser capaz de realizar trabalhos ainda mais profissionais. 
 A cada aula, cada desafio de projeto, sinto que estou chegando mais proximo do meu objetivo maior.
 Que hoje seria me realocar no mercado de trabalho atuando como desenvolvedor na área de TI.:computer:
